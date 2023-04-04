@@ -38,6 +38,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    transition: all .5s;
 }
 .img-container{
     width: 100%;
